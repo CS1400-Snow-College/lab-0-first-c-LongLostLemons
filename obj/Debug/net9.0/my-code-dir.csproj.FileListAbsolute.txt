@@ -1,0 +1,15 @@
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\bin\Debug\net9.0\my-code-dir.exe
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\bin\Debug\net9.0\my-code-dir.deps.json
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\bin\Debug\net9.0\my-code-dir.runtimeconfig.json
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\bin\Debug\net9.0\my-code-dir.dll
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\bin\Debug\net9.0\my-code-dir.pdb
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.AssemblyInfoInputs.cache
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.AssemblyInfo.cs
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.csproj.CoreCompileInputs.cache
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.sourcelink.json
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.dll
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\refint\my-code-dir.dll
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.pdb
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\my-code-dir.genruntimeconfig.cache
+C:\Users\jenna\my-code-dir\lab-0-first-c-LongLostLemons\obj\Debug\net9.0\ref\my-code-dir.dll
